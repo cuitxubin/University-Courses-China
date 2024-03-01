@@ -37,3 +37,8 @@
 
 ## 电子科技大学
 [电子科技大学课程资料共享平台](https://github.com/Xovee/uestc-course)
+
+## 复旦大学
+[复旦大学课程资料共享平台](https://github.com/openFudan/fudan-coursera)
+
+## 
